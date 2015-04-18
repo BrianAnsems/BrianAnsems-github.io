@@ -33,7 +33,7 @@ body{
 	float: left;
 	margin-top: 70px;
 	width: 10%;
-	height: 640px;
+	height: 660px;
 	background-color: #B9D7D9;
 	margin-bottom: 10px;
 	border-radius:20px;
@@ -44,7 +44,7 @@ body{
 	float:right;
 	position:relative;
 	background-color: beige;
-	height:640px;
+	height:660px;
 	font-size: 20px;
 	border:2px solid black;
 	border-radius: 20px;
